@@ -659,13 +659,12 @@
 
 	.gauge-chart {
 		/* 让仪表盘容器占满小容器的剩余高度 */
-		width: 100%;
+		width: 95%;
 		flex: 1;
 	}
 
 	.gauge-name {
-		font-size: 18px;
+		font-size: 20px;
 		font-weight: bold;
-		margin-top: 10px;
 	}
 </style>
